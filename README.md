@@ -42,7 +42,7 @@
 
 ## My Github Stats:
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=iGotABadIdea&show_icons=true&locale=en&theme=radical" alt="iGotABadIdea" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=shubham3751_icons=true&locale=en&theme=radical" alt="iGotABadIdea" /></p>
 <br />
 <hr/>
 
