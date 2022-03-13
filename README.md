@@ -11,7 +11,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iGotABadIdea&theme=radical" alt="iGotABadIdea" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iGotABadIdea&theme=radical" alt="shubham3751" /></a> </p>
 
 <hr/>
  🔭 I’m currently learning more and more about Dev Technologies <br/>
@@ -42,18 +42,18 @@
 
 ## My Github Stats:
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=shubham3751_icons=true&locale=en&theme=radical" alt="iGotABadIdea" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=shubham3751_icons=true&locale=en&theme=radical" alt="Shubham" /></p>
 <br />
 <hr/>
 
 ## My Most Used Languages:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iGotABadIdea&show_icons=true&locale=en&layout=compact&theme=radical" alt="iGotABadIdea" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham3751_icons=true&locale=en&layout=compact&theme=radical" alt="Shubham" /></p>
 <hr/>
 
 ## My Streaks:
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iGotABadIdea&theme=radical" alt="iGotABadIdea" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham3751&theme=radical" alt="Shubham" /></p>
 <hr/>
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
