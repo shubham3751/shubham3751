@@ -40,31 +40,18 @@
 
 <hr/>
 
-## My Github Stats:
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=shubham3751_icons=true&locale=en&theme=radical" alt="Shubham" /></p>
-<br />
-<hr/>
 
-## My Most Used Languages:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham3751_icons=true&locale=en&layout=compact&theme=radical" alt="Shubham" /></p>
-<hr/>
 
-## My Streaks:
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham3751&theme=radical" alt="Shubham" /></p>
-<hr/>
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 <details>
 <summary>Detailed Summary</summary>
 <br>
 <hr/>
     
-![Metrics](https://metrics.lecoq.io/iGotABadIdea?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+![Metrics](https://metrics.lecoq.io/shuhbham3751?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
     
 </details>
 
